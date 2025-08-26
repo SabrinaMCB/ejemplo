@@ -1,0 +1,68 @@
+/*comentario de una línea*/
+
+/*varias
+lineas*/
+
+
+body {
+/*varias
+lineas*/
+    color: #333; 
+    background-color: #999;
+    text-align: center; /*también tiene el valor left, right, justify*/
+}
+
+
+h1 {
+    color: fuchsia;
+}
+
+a {
+    color: white;
+    background-color: black;
+    text-decoration: none;
+
+}
+
+h3 {
+    text-decoration: underline;
+
+}
+
+
+
+
+p {
+
+    background-color: aqua;
+    color: #666;
+    text-align: justify;
+
+
+}
+
+em {
+    color: yellowgreen;
+}
+
+
+p em {
+background-color: black;
+
+}
+
+
+
+#enunciado{
+color: red;
+text-decoration: overline;
+
+}
+
+
+h3 + p {text-transform: uppercase;}
+
+
+
+
+
